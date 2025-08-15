@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Anjie Le is a first-year DPhil student in Biomedical Engineering at the University of Oxford supervised by **Prof. Alison Noble**, specializing in medical AI, ultrasound imaging, and continual learning. With a BA in Mathematics and an MPhil in Data Intensive Science from the University of Cambridge, Anjie combines a strong theoretical foundation with a drive for clinically impactful innovation. Their research focuses on advancing medical large vision-language models (LVLMs), developing robust unlearning algorithms, and improving real-world generalization in medical imaging.
+Anjie Le is a first-year DPhil student in Biomedical Engineering at the University of Oxford supervised by **Prof. Alison Noble, CBE FRS FREng FIET**, specializing in medical AI, ultrasound imaging, and continual learning. With a BA in Mathematics and an MPhil in Data Intensive Science from the University of Cambridge, Anjie combines a strong theoretical foundation with a drive for clinically impactful innovation. Their research focuses on advancing medical large vision-language models (LVLMs), developing robust unlearning algorithms, and improving real-world generalization in medical imaging.
 
 
 ##  Publications 
