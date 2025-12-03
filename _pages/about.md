@@ -17,10 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Anjie Le is a first-year DPhil student in Biomedical Engineering at the University of Oxford supervised by **Prof. Alison Noble, CBE FRS FREng FIET**, specializing in medical AI, ultrasound imaging, and continual learning. With a BA in Mathematics and an MPhil in Data Intensive Science from the University of Cambridge, Anjie combines a strong theoretical foundation with a drive for clinically impactful innovation. Their research focuses on advancing medical large vision-language models (LVLMs), developing robust unlearning algorithms, and improving real-world generalization in medical imaging.
+Anjie Le is a second-year DPhil student in Biomedical Engineering at the University of Oxford supervised by **Prof. Alison Noble, CBE FRS FREng FIET**, specializing in medical AI, ultrasound imaging, and continual learning. With a BA in Mathematics and an MPhil in Data Intensive Science from the University of Cambridge, Anjie combines a strong theoretical foundation with a drive for clinically impactful innovation. Their research focuses on advancing medical large vision-language models (LVLMs), developing robust unlearning algorithms, and improving real-world generalization in medical imaging.
 
 
 ##  Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv, 2025</div>
+      <img src='images/pour.png' alt="POUR: Provably Optimal Unlearning of Representations" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+  [POUR: A Provably Optimal Method for Unlearning Representations via Neural Collapse](https://arxiv.org/abs/2511.19339)  
+  **Anjie Le**, Can Peng, Yuyuan Liu, J. Alison Noble  
+  arXiv (Nov 2025) 
+
+  - Introduces representation-level weak unlearning and the Representation Unlearning Score (RUS).  
+  - Proves that orthogonally projecting away the forgotten class direction preserves Neural Collapse geometry: the projection of a simplex ETF remains a simplex ETF, and that the projection preserves Bayes optimality.  
+  - Introduces unlearning methods **POUR-P**, a closed-form projection operator that performs instantaneous forgetting, and **POUR-D**, a projection-guided distillation method that propagates forgetting into deep encoders.  
+  - Touches on unlearning under domain shift and cross-modal unlearning.
+  </div>
+</div>
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
