@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anjie Le"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Anjie Le is a first-year DPhil student in Biomedical Engineering at the University of Oxford supervised by Prof. Alison Noble, specializing in medical AI, ultrasound imaging, and continual learning. "
+  bio              : "Anjie Le is a second-year DPhil student in Biomedical Engineering at the University of Oxford supervised by Prof. Alison Noble, specializing in medical AI, ultrasound imaging, and continual learning. "
   location         : "Beijing, China"
   employer         :
   pubmed           : 
