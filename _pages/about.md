@@ -20,6 +20,16 @@ redirect_from:
 Anjie Le is a second-year DPhil student in Biomedical Engineering at the University of Oxford supervised by **Prof. Alison Noble, CBE FRS FREng FIET**, specializing in medical AI, ultrasound imaging, and continual learning. With a BA in Mathematics and an MPhil in Data Intensive Science from the University of Cambridge, Anjie combines a strong theoretical foundation with a drive for clinically impactful innovation. Their research focuses on advancing medical large vision-language models (LVLMs), developing robust unlearning algorithms, and improving real-world generalization in medical imaging.
 
 
+<span class='anchor' id='-invited-talks'></span>
+
+## Invited Talks
+
+- Jan. 2026 – *Multimodal Large Language Models for Ultrasound Imaging: Challenges and Industrial Practice*, AI for Medicine and Healthcare Bridge Program, AAAI, Singapore  
+- Jul. 2025 – *Dolphin: A Large Vision-Language Model for Ultrasound Understanding*, The 3rd National Academic Forum for Young Scholars, Chinese Society of Ultrasound in Medicine, Zhengzhou, China
+
+
+<span class='anchor' id='-publications'></span>
+
 ##  Publications 
 
 <div class='paper-box'>
@@ -47,7 +57,7 @@ Anjie Le is a second-year DPhil student in Biomedical Engineering at the Univers
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv, 2025</div>
+      <div class="badge">ICLR 2026</div>
       <img src='images/u2bench.png' alt="U2-BENCH benchmarking LVLMs on ultrasound" width="100%">
     </div>
   </div>
@@ -55,14 +65,16 @@ Anjie Le is a second-year DPhil student in Biomedical Engineering at the Univers
     
   [U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding](https://arxiv.org/abs/2505.17779)  
   **Anjie Le**, Henan Liu, Yue Wang, Zhenyu Liu, Rongkun Zhu, Taohan Weng, Jinze Yu, Boyang Wang, Yalun Wu, Kaiwen Yan, Quanlin Sun, Meirui Jiang, Jialun Pei, Siya Liu, Haoyun Zheng, Zhoujun Li, J. Alison Noble, Jacques Souquet, Xiaoqing Guo, Manxi Lin, Hongcheng Guo  
-  arXiv (May 2025)  
+  ICLR 2026
   - Presents the first comprehensive benchmark evaluating large vision-language models (LVLMs) across diverse ultrasound tasks—including classification, detection, localization, and report generation—across over 7,200 cases and multiple anatomical regions, highlighting both strengths and areas for improvement in ultrasound understanding.  
   </div>
 </div>
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">MICCAI 2025</div> <img src='images/vitalct.png' alt="ViTAL-CT framework" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 ViTAL-CT: Vision Transformers for High-Risk Plaque Classification in Coronary CTA
+
 **Anjie Le**, Jin Zheng, Tan Gong, Quanlin Sun, Jonathan Weir-McCall, Declan P. O’Regan, Michelle C. Williams, David E. Newby, James H.F. Rudd, Yuan Huang
+
 MICCAI 2025
 
 - Proposes the first segmentation-free Vision Transformer framework for high-risk plaque classification in coronary CTA, integrating multi-scale cross-sectional, axial, and geometric context via a hybrid ViT-ConvNeXt-U-Net architecture.
@@ -106,3 +118,4 @@ MICCAI 2025
 
 
 - For a full overview of my scholarly work, visit my [Google Scholar profile](https://scholar.google.com/citations?user=XvQ4B1sAAAAJ&hl=en).
+
