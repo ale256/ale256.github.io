@@ -35,7 +35,7 @@ Anjie Le is a second-year DPhil student in Biomedical Engineering at the Univers
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv, 2025</div>
+      <div class="badge">CVPR 2026</div>
       <img src='images/pour.png' alt="POUR: Provably Optimal Unlearning of Representations" width="100%">
     </div>
   </div>
@@ -43,7 +43,7 @@ Anjie Le is a second-year DPhil student in Biomedical Engineering at the Univers
     
   [POUR: A Provably Optimal Method for Unlearning Representations via Neural Collapse](https://arxiv.org/abs/2511.19339)  
   **Anjie Le**, Can Peng, Yuyuan Liu, J. Alison Noble  
-  arXiv (Nov 2025) 
+  CVPR 2026
 
   - Introduces representation-level weak unlearning and the Representation Unlearning Score (RUS).  
   - Proves that orthogonally projecting away the forgotten class direction preserves Neural Collapse geometry: the projection of a simplex ETF remains a simplex ETF, and that the projection preserves Bayes optimality.  
